@@ -43,7 +43,7 @@ License
 ----
 
 MIT
-© [Rijul Bansal]
+Â© [Rijul Bansal]
 
 
 [Rijul Bansal]:http://twitter.com/bansalrijul
